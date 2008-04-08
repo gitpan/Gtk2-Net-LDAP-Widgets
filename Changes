@@ -1,0 +1,4 @@
+Revision history for Perl extension Gtk2::Net::LDAP::Widgets
+
+2.0.0  Tue, 08 Apr 2008 13:18:12 +0200 aleksander.adamowski@gmail.com
+        - initial public release
