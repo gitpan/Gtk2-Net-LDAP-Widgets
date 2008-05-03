@@ -56,7 +56,7 @@ use Gtk2::Net::LDAP::Widgets::Util;
 
 @ISA = qw(Gtk2::Dialog);
 
-our $VERSION = "2.0.0";
+our $VERSION = "2.0.1";
 
 
 use overload
@@ -230,7 +230,7 @@ L<Net::LDAP>
 
 =head1 AUTHOR
 
-Aleksander Adamowski, E<lt>aleksander.adamowski@gmail.comE<gt>
+Aleksander Adamowski, E<lt>cpan@olo.org.plE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 

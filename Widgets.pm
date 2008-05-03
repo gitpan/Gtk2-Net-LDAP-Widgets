@@ -1,6 +1,6 @@
 package Gtk2::Net::LDAP::Widgets;
 
-our $VERSION = "2.0.0";
+our $VERSION = "2.0.1";
 sub Version { $VERSION; }
 
 require 5.005;
@@ -57,7 +57,7 @@ L<Gtk2::Net::LDAP::Widgets::LdapTreeView>
 
 =head1 AUTHORS
 
-Original author: Aleksander Adamowski <aleksander.adamowski@gmail.com>
+Original author: Aleksander Adamowski <cpan@olo.org.pl>
 
 =head1 COPYRIGHT AND LICENSE
 

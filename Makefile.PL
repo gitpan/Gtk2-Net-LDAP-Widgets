@@ -7,7 +7,7 @@ perl_version    5.004;
 
 name		('Gtk2-Net-LDAP-Widgets');
 module_name	('Gtk2::Net::LDAP::Widgets');
-author		('Aleksander Adamowski <aleksander.adamowski@gmail.com>');
+author		('Aleksander Adamowski <cpan@olo.org.pl>');
 version_from	('Widgets.pm');
 license		('perl');
 abstract_from	('Widgets.pm');

@@ -26,7 +26,7 @@ use Gtk2::Net::LDAP::Widgets::Util;
 
 @ISA = qw(Gtk2::TreeView);
 
-our $VERSION = "1.9.9";
+our $VERSION = "2.0.1";
 our $dn_column = 0;
 our $bool_column = 1;
 
@@ -196,7 +196,7 @@ L<Net::LDAP>
 
 =head1 AUTHOR
 
-Aleksander Adamowski, E<lt>aleksander.adamowski@gmail.comE<gt>
+Aleksander Adamowski, E<lt>cpan@olo.org.plE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
